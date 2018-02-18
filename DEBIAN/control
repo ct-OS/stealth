@@ -1,0 +1,14 @@
+Package: stealth
+Version: 0.1
+Architecture: all
+Maintainer: Alvaro Samudio <alvarosamudio1@gmail.com>
+Installed-Size: 81
+Depends: bash, iptables, tor, i2p, onioncircuits, freenet, libnotify-bin, connect-proxy, onionshare, torsocks, tor-geoipdb
+Suggests: gnunet-gtk, gnunet, vidalia
+Section: 
+Priority: optional
+Homepage: 
+Description: Stealth
+ Script to return anonymous communications using tor and i2p
+
+
