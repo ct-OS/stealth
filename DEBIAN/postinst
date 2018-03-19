@@ -1,7 +1,5 @@
 #!/bin/bash
 set -e
-
-
 if [ -e /etc/tor/torrc ]; then
  mv /etc/tor/torrc /etc/tor/torrc.orig
 fi
