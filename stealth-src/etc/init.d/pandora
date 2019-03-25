@@ -8,7 +8,7 @@ set -e
 # Should-Stop:          halt reboot
 # Default-Start:        2 3 4 5
 # Default-Stop:         0 1 6
-# Short-Description: Open Parrot Pandora's box and clean the RAM.
+# Short-Description: Open Pandora's box and clean the RAM.
 ### END INIT INFO
 
 function bomb {
